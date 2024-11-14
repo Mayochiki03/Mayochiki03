@@ -5,7 +5,7 @@ Hello my name is Aphisorn Suwanno i'm study in SKRU (Songkhla Rajabhat Universit
 
 * 🌍  I'm based in Songkhla, Thailand
 * ✉️  You can contact me at [aphisorn2003@gmail.com](mailto:aphisorn2003@gmail.com)
-* 🧠  I'm learning I'm learning Flutter Dart & Data Science
+* 🧠  I'm learning Flutter Dart & Data Science
 
 ### Skills
 
