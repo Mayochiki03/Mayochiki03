@@ -10,7 +10,7 @@ Exploring advanced topics through upcoming courses:
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="20" height="20" alt="AWS" /> **Cloud Computing & Applications**: Understanding cloud-based solutions and their practical applications, including AWS.  
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" height="20" alt="Python Logo" /> **Data Science**: Leveraging Python for data analysis, visualization, and machine learning to make informed decisions.
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" /> **Special Topics in Software Development**: Mastering modern front-end frameworks like React and Vue.js for dynamic web application development.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png" width="20" height="28" alt="Spring Boot Logo" /> **Spring Boot**: Currently learning to build backend services using Spring Boot, focusing on creating RESTful APIs and integrating them with React.js for full-stack web development. 🚀
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png" width="20" height="20" alt="Spring Boot Logo" /> **Spring Boot**: Currently learning to build backend services using Spring Boot, focusing on creating RESTful APIs and integrating them with React.js for full-stack web development. 🚀
 
 ---
 
